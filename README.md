@@ -44,11 +44,11 @@ pip install -r requirements.txt,python app.py]
 For Software:
 
 # Screenshots (Add at least 3)
-![https://imgur.com/68Wq3lI]community page
+![https://drive.google.com/drive/folders/1KxsyigE8J_OjcAttFqmvau5BOh6TholW]community page
 
-![https://imgur.com/vehBeBn]chatbot page
+![https://drive.google.com/drive/folders/1KxsyigE8J_OjcAttFqmvau5BOh6TholW]chatbot page
 
-![https://imgur.com/qqwKuHo]login page
+![https://drive.google.com/drive/folders/1KxsyigE8J_OjcAttFqmvau5BOh6TholW]login page
 
 # Diagrams
 ![ +----------------+        +-------------------+        +---------------------+
