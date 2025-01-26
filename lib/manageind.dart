@@ -11,7 +11,7 @@ class ManageIndividualsScreen extends StatelessWidget {
         backgroundColor: Colors.blueAccent,
       ),
       body: Padding(
-        padding: const EdgeInsets.all(16.0),
+        padding: const EdgeInsets.all(16.0), 
         child: Column(
           children: [
             // Add functionality to view and manage individual users
