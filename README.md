@@ -1,12 +1,14 @@
-Rythm_365
+# [Project Name] 🎯
 
 
 ## Basic Details
-### Team Name: individual
+### Team Name: [Name]
 
 
 ### Team Members
-- Member 1: Gayathri.M - SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
+- Member 1: [Name] - [College]
+- Member 2: [Name] - [College]
+- Member 3: [Name] - [College]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
